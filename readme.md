@@ -29,8 +29,6 @@ Users have the ability to choose some of the extra migration options to make the
 * **Start Free Demo** to see how your Squarespace store will look on the Shopify platform. You can move a limited number of data entities just within 30 minutes.  
 * **Launch the Full migration** of your store from Squarespace to Shopify.
 
-Watch our [video tutorial](https://www.youtube.com/watch?v=9Rf6V5LVkjo&t=1s?utm_source=github.com&utm_medium=referral&utm_term=squarespace-shopify&utm_campaign=optimized-page) to see how easy it is to automatically migrate from Squarespace to Shopify with the help of the Cart2Cart migration tool.
- 
 Check the detailed [guide on Squarespace to Shopify migration](https://www.shopping-cart-migration.com/migration-guides/squarespace-to-shopify-migration?utm_source=github.com&utm_medium=referral&utm_term=squarespace-shopify&utm_campaign=optimized-page). 
 ## Why Choose Cart2Cart?
 * **Simple 4-step migration** that will save your time and effort.
